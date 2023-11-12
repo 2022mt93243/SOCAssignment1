@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6kSkie0tM/R5eRgjACJ4wqpziRtLXYO5nEtgREZgVhs/zjA2/HgxvG0SZtXz9gM2SJ3SiiCIkJ2hce3TntgTNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Z003DKCU\\source\\repos\\TumorDiagnosis\\TumorDiagnoser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Z003DKCU\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Z003DKCU\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Z003DKCU\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Z003DKCU\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Z003DKCU\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Z003DKCU\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
